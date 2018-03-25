@@ -1,3 +1,5 @@
 # Ignore pdf and zip files
 *.zip
 *.pdf
+
+.ipynb_checkpoints/
